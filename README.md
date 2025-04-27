@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Tanya! 👋
 
-<!--
-**Tanya0xCyber/Tanya0xCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Cybersecurity Enthusiast  
+🛡️ Future SOC Analyst and Ethical Hacker  
 
-Here are some ideas to get you started:
+## 🌟 About Me:
+- 🔭 I’m currently learning **Networking, Linux, and Cybersecurity Fundamentals**.
+- 🛡️ Exploring **Threat Hunting**, **SIEM Tools**, and **Bug Bounty Hunting**.
+- 📚 Passionate about **Ethical Hacking, Digital Forensics, and Cyber Defense**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills I'm Working On:
+- Networking (TCP/IP, OSI Model)
+- Linux (Command Line Mastery)
+- Tools: Wireshark, Nmap, Burp Suite, Metasploit
+- Python for Cybersecurity Scripts
+
+
 -->
